@@ -16,6 +16,7 @@ I am a simple man with a big willing to became a good coder and a big dreams. Al
 * JavaScript
 * 3d modelling
 * Git
+* ed rendering
 
 ## Code Example
 
