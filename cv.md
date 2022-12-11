@@ -8,7 +8,7 @@
 * GitHub: [Oleksandr Kernytskyi](https://github.com/olekernytskyi)
 * Location: Lublin, Poland
 ## About Me
-I am a simple man with a big willing to became a good coder and a big dreams. Also learned 3d modelling and rendering as a hobby
+I am a simple man with a big willing to became a good coder and a big dreams. Also learned 3d modelling and rendering as a hobby.
 
 ## Skills
 * HTML
